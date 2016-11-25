@@ -1,4 +1,7 @@
 "# JAVAT002" 
+
+#purpose: for create a nice interface for an excellent project
+
 public native String sendMessage(int rv);
 
 public native String changeMessage(String s, int rv);
