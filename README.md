@@ -1,6 +1,9 @@
+
 "# JAVAT002" 
 
 #purpose: for create a nice interface for an excellent project
+
+#especially look at the variable rv, it just for debugging in order to get the error reason
 
 public native String sendMessage(int rv);
 
